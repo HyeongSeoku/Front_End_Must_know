@@ -27,3 +27,8 @@ _[쿼크 모드](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_a
 ### HTML5
 
 #### HTML5의 경우 문서 형식 선언(DOCTYPE)이 불필요하지만 웹 브라우저들의 표준모드 활성화를 위해 최소한의 형태로 유지되어 사용된다
+
+## 참고
+
+- [MDN 문서 타입 정의](https://developer.mozilla.org/ko/docs/Glossary/Doctype)
+- [HTML <!DOCTYPE> 선언](http://www.tcpschool.com/html-tags/doctype)
