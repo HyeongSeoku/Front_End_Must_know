@@ -18,3 +18,9 @@
 **호환 모드**로 렌더링을 하게 되면 오래된 웹페이지들을 최신 버전의 브라우저에서도 깨지지 않게 하기 때문에 각 브라우저마다 다르게 보일 수 있다.
 
 #### 결론적으로 일반적인 경우 **DOCTYPE을 명시하여 브라우저가 _표준 모드_ 로 렌더링 하게 해야 한다**.
+
+## 참고
+
+- [MDN 표준모드와 호환 모드](https://developer.mozilla.org/ko/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
+- [[HTML] 표준 모드(Standards mode) VS 호환 모드(Quirks mode)
+  ](https://sw-ryu.tistory.com/86)
