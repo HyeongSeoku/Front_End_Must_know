@@ -8,20 +8,20 @@
 
 ---
 
-### Hositing
+### Hoisting
 
 - 사전적 의미 : 끌어 올리다.
 - **변수 또는 함수가 아래에 선언이 되어 있어도 최상단으로 끌어 올려진 것처럼 작동하는 것을 호이스팅이라한다.**
 
 <br>
 
-#### Hositing의 이유
+#### Hoisting의 이유
 
 변수 선언이 소스코드가 한 줄씩 순차적으로 실행되는 시점, 즉 런타임이 아니라 그 이전 단계에서 먼저 실행되기 때문
 
 <br>
 
-### Hositing의 종류
+### Hoisting의 종류
 
 - 변수 호이스팅
 - 함수 호이스팅
@@ -112,3 +112,15 @@ var log = () => {
 - **함수 호이스팅을 막는법**
   - let,const를 이용하여 변수에 함수를 할당.
   - _❗️주의 할 점_ var 키워드 사용하여 변수에 함수 할당시 다른 에러 발생.
+
+<br>
+
+---
+
+참고
+
+[02.호이스팅](https://velog.io/@yhj96/02.-JS-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85Hoisting)
+
+[[JavaScript] 호이스팅 (Hoisting)](https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html)
+
+📚 모던 자바스크립트 Deep Dive
